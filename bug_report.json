@@ -1,1 +1,7 @@
-
+{   "ID": "1"
+    "Summary": " Что? Где? Когда? "
+    "Steps to reproduce": "Шаги воспроизведения бага"
+    "Severity": "normal"
+    "Priority": "low"
+    
+}
