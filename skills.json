@@ -1,7 +1,13 @@
-{	"JS": "Basic",
-	"Linux": "Main commands",
-	"Postman": "Post, get request, autotest",
-	"Documentation": "Check-list, test case, bag report"
+	let skills= [
+		"Manual testing",
+		"Test Design Techniques",
+		"Ability to create and support test documentation",
+		"Experience in cross-platform/browser testing",
+		"Black/Grey/ Box Testing",
+		"Jira, TestRail",
+		"Good understanding of Client-Server architecture",
+		"Understanding of front-end technologies like HTML, CSS, JSON",
+		"Understanding of Agile methodology" ]
 	
 
-}
+
